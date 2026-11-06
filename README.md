@@ -20,7 +20,10 @@ Microsoft Excel
 
 ## Data Cleaning
 •	Reordered "Product_category" Column 
+
 •	Split the "Region and Sales_Rep." Column then rename each column 
+
+
 •	Create new column for "Unit cost", "Total cost", and "Profit"
 
 ## Key Performance Indicators (KPIs)
@@ -48,4 +51,6 @@ Total Customers: 1,000
 3.	 Improve customer retention: Introduce loyalty programmes and targeted promotions to encourage repeat purchases, particularly in the East and North.
 4.	 The business should continue strengthening its online platform while maintaining effective retail operations to maximise sales opportunities across all regions.
 5.	Regularly monitor monthly sales and item demand to identify fluctuations, understand purchasing patterns and improve inventory planning.
+
+
 
